@@ -1,0 +1,37 @@
+GitHub is a cloud platform used to store, manage, and collaborate on software projects using Git.
+
+Key Points
+
+Code Hosting: Stores your project code online in repositories (repos).
+
+Version Control: Tracks every change made to files.
+
+Collaboration: Multiple developers can work on the same project.
+
+Backup: Your code is safely stored in the cloud.
+
+Open Source: Many public projects are available for learning and contribution.
+
+Main Features
+
+Repositories (Repos): Project folders that contain code and files.
+
+Commits: Saved changes to the project.
+
+Branches: Separate versions of the project for development.
+
+Pull Requests: Request to merge code changes into the main project.
+
+Issues: Track bugs, tasks, and feature requests.
+
+Simple Workflow
+
+Create a repository on GitHub.
+
+Write code locally using Git.
+
+Commit the changes.
+
+Push the code to GitHub.
+
+Collaborate with others.
